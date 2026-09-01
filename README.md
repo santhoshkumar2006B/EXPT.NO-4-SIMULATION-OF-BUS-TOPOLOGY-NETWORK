@@ -8,9 +8,11 @@ To create and monitor Bus Topology and effective data transmission using NS2 Sof
 PC System with Linux OS, NS2 software.
 
 # ALGORITHM
-STEP 1: Start the program.
+STEP 1: Start the program.               
 STEP 2: Declare the global variables ns for creating a new simulator.
+
 STEP 3: Open the network animator file in the write mode.
+
 STEP 4: Open the trace file in the write mode.
 STEP 5: Transfer the packets in network.
 STEP 6: Create the capable no of nodes.
@@ -57,6 +59,7 @@ $ns at 5.0 "finish"
 $ns run
  
 # OUTPUT
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/bda4796f-f2a5-44fe-b76b-689893216d2a" />
 
 
 # RESULT
