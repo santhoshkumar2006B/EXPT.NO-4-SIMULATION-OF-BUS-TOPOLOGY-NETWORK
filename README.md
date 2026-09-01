@@ -63,5 +63,6 @@ $ns run
 
 # RESULT
 
-Thus the Bus Topology using NS2 software is created and monitored successfully.
+<img width="1600" height="1115" alt="image" src="https://github.com/user-attachments/assets/b2c83125-dde1-4329-9c2d-3020856984f8" />
+
 
